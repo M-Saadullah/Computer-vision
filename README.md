@@ -13,11 +13,6 @@ The **Football Analysis Project** aims to detect, track, and analyze football pl
 
 By implementing these features, this project provides valuable insights into football match dynamics, making it useful for sports analysts, coaches, and machine learning enthusiasts.
 
-## Example Output
-The following image shows an example of player detection and tracking from a sample video:
-
-![Screenshot](output_videos/screenshot.png)
-
 ## Modules Used
 The project utilizes multiple Python libraries and machine learning techniques to achieve accurate tracking and analysis:
 
